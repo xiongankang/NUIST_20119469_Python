@@ -1,0 +1,122 @@
+    1  git config--global user.name"Your name"
+    2  git config --gobal user.name "Your Name"
+    4  git config --gobal user.email "your.email@example.com"
+    5  git config --gobal alias.co checkout
+    6  git config --list
+    7  mkdir git-6170-tutorial
+    8  cd git-6170-tutorial
+    9  git init
+   13  git add hello1.txt hellow2.txt
+   14  git commit -m "Adding test fies:hello1.txt and hellow2.txt"
+   15  git log
+   16  mkdir git-6170-tutorial
+   17  git config --gobal user.name"Your Name"
+   18  git config --global user.name "Your Name"
+   19  git config --global user.name"Your Name"
+   20  git config --global user.email"your email@example.com"
+   21  git config --global alias.co checkout
+   22   git config --gobal user.name "Your Name"
+   23  git config --gobal user.email"your email@example.com"
+   24  git config --gobal alias.co checkout
+   25  git config --list
+   26  mkdir git-6170-tutorial
+   27  cd git-6170-tutorial
+   28  git init
+   33  git commit -m"Adding test files: hello1.txt and hello2.txt"
+   34  git config --global user.email"Your Name"
+   36  git cionfig --global user.name "XAK"
+   37  git config --global user.name “XAK”
+   38  git config --global user.name "XAK"
+   39  git config --global user.name"XAK"
+   41  git config --global user.email""your.email@example.com"
+   42  git config --global alias.co checkout
+   43  mkdir 6170_git_tutorial
+   44  cd 6170_git_tutorial||exit
+   45  git init
+   50  git add hello1.txt hello2.txt
+   51  git commit -a -m "Adding test files to the respository"
+   54  git init
+   58  git commit -a-m "Adding test files hello1.txt and hello2.txt"
+   59  git rm hello1.txt
+   60  git init
+   61  git status
+   67  git init
+   68  git status
+   69  git branch
+   70  git branch assignment2
+   71  git checkout assignment2
+   74   git status
+   75  git branch
+   76  git cehckout -b assignment2
+   77  git check -b assignment2
+   78  git checkout -b assignment2
+   80  git add Test2.txt
+   81  git commit -m "Add Test2.txt for assignment2"
+   82  git checkout master
+   83  git branch -m assignment2 master
+   84  git checkout master
+   85  git merge assignment
+   86  git merge assignment2
+   87  git checkout -b assignment2
+   88  git checkout master
+   89  git merge assignment2
+   92  git clone https://github.com/coolcom5/local_To_GitHub_2026.git
+   94  git init
+   95  git config --global user.name “xxx”
+   96  git config --user.email "20119469@setu.ie"
+  105  git init
+  106  git config --global user.name "xiongankang"
+  107  git config --global user.email "20119469@setu.ie"
+  112  git remote add origin https://github.com/xiongankang/LAB4.git
+  113  git branch -M main
+  114  git push -u origin main
+  151  git init
+  152  git remote add origin https://github.com/xiongankang/project_sem2_2026-python.git
+  153  git branch -M main
+  154  git push -u origin main
+  155  git branch -M main
+  156  git push -u origin main
+  157  git push -u origin main
+  158  git add .
+  159  git branch
+  160  git log --oneline
+  161  git status
+  162  git init
+  166  git reset HEAD
+  167  git add Ex1.py Ex2.py Ex3.py Ex4.py Ex5.py Ex6.py
+  168  git add Ex1.py Ex2.py Ex3.py Ex4.py Ex5.py Ex6.py
+  186  git init
+  187  git add Ex1.py Ex2.py Ex3.py Ex4.py Ex5.py Ex6.py
+  188  git commit -m"Add Python exercises Ex1-Ex6"
+  189  git remote add origin https://github.com/xiongankang/project_sem2_2026-python.git
+  190  git push -u origin main
+  191  git branch -M main
+  192  git push -u origin main
+  193  git push -u origin main
+  198  git clone https://github.com/xiongankang/NUIST_20119469_Python.git
+  200  git clone https://github.com/xiongankang/NUIST_20119469_Python.git
+  205  git add AddTwoNums.py
+  206  git commit -m"feat:add Version 1 of AddTwoNums"
+  207  git status
+  208  git push origin main
+  211  git add AddTwoNums.py
+  212  git commit -m"feat:update to Version 2 of AddTwoNums"
+  213  git status
+  214  git log --onrline
+  215  git log --oneline
+  216  git push origin main
+  224  git add AddTwoNums.py
+  225  git commit -m"feat:update to Version 3 of AddTwoNums"
+  226  git status
+  227  git log --oneline
+  228  git push origin main
+  229  git push origin main
+  230  git add Ex6.py
+  231  git add Exercise6.py
+  235  git clone https://github.com/xiongankang/project_sem2_2026-python.git
+  249  git add Ex6.py
+  250  git commit -m"feat:add Lab1 Ex6.py"
+  251  git push origin main
+  252  git push origin main
+  253  history | grep"git" > git_commands_history.txt
+  254  history | grep "git" > git_commands_history.txt
